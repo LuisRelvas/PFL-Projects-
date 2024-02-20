@@ -2,5 +2,3 @@
 
 ### PROJECT 1 GRADE : 16,9
 ### PROJECT 2 GRADE : 19,18
-### MT1 GRADE : 13,75
-### MT2 GRADE : 8,91
